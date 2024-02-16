@@ -25,3 +25,5 @@
 `git reset`: Resets your index and working directory to the state of your last commit. This is useful for undoing changes. Use carefully.
 
 `git stash`: Temporarily shelves (or stashes) changes so you can work on a different branch without committing incomplete work on your current branch.
+
+The `.git` object database holds all the objects in the repository: blobs (file data), trees (directory structure), commits (individual project states), and annotated tags (points in history as significant).
