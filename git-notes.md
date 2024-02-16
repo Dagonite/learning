@@ -2,7 +2,7 @@
 
 `git clone <repository-url>`: Creates a local copy of a remote repository. This command is used when you want to work on an existing project that is hosted on a server (e.g., GitHub, GitLab).
 
-`git add <file>`: Adds files to the staging area. It tells Git that you want to include updates to a particular file(s) in the next commit. Use git add . to add all changed files to the staging area.
+`git add <file>`: Adds files to the staging area. It tells Git that you want to include updates to a particular file(s) in the next commit. Use `git add .` to add all changed files to the staging area.
 
 `git commit -m "Your commit message"`: Records or snapshots the file permanently in the version history along with a message from the user describing the changes.
 
